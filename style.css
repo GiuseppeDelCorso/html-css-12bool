@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+.box {
+    background: rgb(8, 125, 235);
+    padding: 0.5rem;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    height: 52px;
+}
+
+.box-green {
+    background: rgb(9, 255, 0);
+    border: solid 1px white;
+    padding: 0.5rem;
+    color: rgb(0, 0, 0);
+
+}
+.spazio{
+    height: 30px;
+    background-color: black;
+}
