@@ -22,3 +22,15 @@ body {
     height: 30px;
     background-color: black;
 }
+.box-verde {
+    background: rgb(17, 128, 13);
+    padding: 0.5rem;
+    text-align: center;
+    height: 52px;
+}
+.box-red {
+    background: rgb(143, 16, 16);
+    padding: 0.5rem;
+    text-align: center;
+    height: 52px;
+}
